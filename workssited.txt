@@ -1,0 +1,4 @@
+Found the idea for this txt file at <http://humanstxt.org/>
+
+index.html <nav> credit to
+<https://www.w3schools.com/bootstrap/bootstrap_navbar.asp>
