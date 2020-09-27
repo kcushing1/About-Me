@@ -9,7 +9,6 @@ body {
 
 .boxbox {
   background-color: white;
-  margin: auto;
   max-width: 80% fit-content;
   overflow: hidden;
 }
