@@ -1,4 +1,8 @@
 Found the idea for this txt file at <http://humanstxt.org/>
 
-index.html <nav> credit to
-<https://www.w3schools.com/bootstrap/bootstrap_navbar.asp>
+
+background image credit to:
+Miller, David. "Full Page Image HTML Background for Bootstrap". Start Bootstrap. Online <https://startbootstrap.com/snippets/full-image-background/>
+
+footer credit to:
+Miller, David. "Flexbox Sticky Footer". Start Bootstrap. Online <https://startbootstrap.com/snippets/sticky-footer-flexbox/>
