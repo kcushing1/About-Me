@@ -6,9 +6,3 @@ body {
   background-size: cover;
   -o-background-size: cover;
 }
-
-.boxbox {
-  background-color: white;
-  max-width: 80% fit-content;
-  overflow: hidden;
-}
