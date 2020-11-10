@@ -4,7 +4,7 @@ A simple portfolio developed to be responsive and well-adjusted to a variety of 
 
 Deployed at: https://kcushing1.github.io/Basic-Portfolio/
 
-![portfolio home page](./Assets/Images/home-page.jpeg)
+![portfolio home page](./Assets/Images/home-page.jpg)
 
 ## All About: Kasey
 
