@@ -6,13 +6,5 @@ Deployed at: https://kcushing1.github.io/About-Me/
 
 ![portfolio home page](./Assets/Images/home-page.jpg)
 
-## All About: Kasey
-
-See projects and creations of all types by Kasey! Featuring:
-
-A random password generator
-A weather dashboard
-A workday schedule page
-A time capsule
-
-And so much more!
+## Tools Used
+HTML/CSS. Bootstrap4.
